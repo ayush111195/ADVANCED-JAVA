@@ -15,7 +15,7 @@ public class Main {
         System.out.println(c.get(Calendar.SECOND));
         System.out.println(c.get(Calendar.HOUR));
         System.out.println(c.get(Calendar.HOUR_OF_DAY)); // hour of day station wala tym btata h ....
-        System.out.println(c.get(Calendar.HOUR_OF_DAY)+":"+c.get(Calendar.MINUTE)+": "+c.get(Calendar.SECOND));
+        System.out.println(c.get(Calendar.HOUR_OF_DAY)+":"+c.get(Calendar.MINUTE)+":"+c.get(Calendar.SECOND));
 
 
         // GregorianCalender class--->>>
